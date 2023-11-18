@@ -1,14 +1,14 @@
 details:
   - key: name
-    value: John Doe
+    value: Lisara
   - key: occupation 
     value: Machine Learning Engineer
   - key: education
-    value: MS in Computer Science
+    value: MS in AI
   - key: research_publications  
-    value: 6
+    value: 1
   - key: active_research  
-    value: 3  
+    value: 2
   - key: working_years
     value: 5 years
   - key: completed_projects
@@ -19,7 +19,7 @@ details:
 description: "I have gained valuable experience in machine learning and deep learning during my three years as a Machine Learning Engineer. I've contributed to several projects and published research papers. I'm dedicated to continuous learning and staying up-to-date with the latest advancements in artificial intelligence."
 
 fields_of_interest:
-  - Natural Language Processing
+  - Machine Learning
   - Reinforcement Learning
   - Data Analysis
   - Statistical Modeling

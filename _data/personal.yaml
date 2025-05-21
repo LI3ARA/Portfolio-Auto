@@ -1,37 +1,35 @@
 details:
   - key: name
-    value: John Doe
-  - key: occupation 
-    value: Machine Learning Engineer
+    value: Lisara Gajaweera
+  # - key: occupation 
+  #   value: Machine Learning Engineer
   - key: education
-    value: MS in Computer Science
-  - key: research_publications  
-    value: 6
+    value: BSc in Artificial Intelligence and Data Science
+  # - key: research_publications  
+  #   value: 6
   - key: active_research  
     value: 3  
   - key: working_years
-    value: 5 years
-  - key: completed_projects
-    value: 20
+    value: 2 years
+  # - key: completed_projects
+  #   value: 20
   - key: active_projects 
-    value: 6
+    value: 3
 
-description: "I have gained valuable experience in machine learning and deep learning during my three years as a Machine Learning Engineer. I've contributed to several projects and published research papers. I'm dedicated to continuous learning and staying up-to-date with the latest advancements in artificial intelligence."
-
+description: "Emerging Machine Learning Engineer with strong academic grounding and full-time industry training — seeking research-driven opportunities and graduate study to deepen AI innovation."
 fields_of_interest:
   - Natural Language Processing
-  - Reinforcement Learning
   - Data Analysis
-  - Statistical Modeling
+  - Machine Vision
 
 soft_skills:
   - Problem Solving
   - Teamwork
   - Data Visualization
 
-certificates:
-  - title: "TOEFL Certification"
-    link: https://example.com/toefl-certificate
-  - title: "Deep Learning Specialization : Coursera"
-    link: https://coursera.org/share/3a4e89e5a36f72a7816758a254bde8a2
+# certificates:
+#   - title: "TOEFL Certification"
+#     link: https://example.com/toefl-certificate
+#   - title: "Deep Learning Specialization : Coursera"
+#     link: https://coursera.org/share/3a4e89e5a36f72a7816758a254bde8a2
 

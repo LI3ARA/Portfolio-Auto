@@ -5,7 +5,7 @@ plugins:
   - jekyll-paginate
   - jekyll-assets
   
-title: John Doe
+title: Lisara
 email: lisara4898@gmail.com
 description: 'Personal Portfolio'
 baseurl: "/Portfolio-Auto" # the subpath of your site, e.g. /blog

@@ -6,15 +6,15 @@ plugins:
   - jekyll-assets
   
 title: John Doe
-email: johndoe@example.com
+email: lisara4898@gmail.com
 description: 'Personal Portfolio'
 baseurl: "/Portfolio-Auto" # the subpath of your site, e.g. /blog
 url: 
-portfolio_url: https://github.com/johndoe
+portfolio_url: https://li3ara.github.io/Portfolio-Auto/
 cv_url: assets/pdf/cv.pdf
-repository: nipdep/portfolio
-twitter: https://twitter.com/johndoe
-github: 
+repository: LI3ARA/Portfolio-Auto
+# twitter: https://twitter.com/johndoe
+github: https://github.com/LI3ARA
 
 header_image: assets/images/profile_pic3.png
 
@@ -23,14 +23,14 @@ theme_config:
   appearance_toggle: true # if appearance can be switched by user
 
 google_analytics:
-  tracking_id: G-H2K6ZWCRB5
+  tracking_id: G-G4XQCB0L4K
 
 comments: true
 disqus: purelog-jekyll
 
-author: John Doe
+author: Lisara
 author_bio: >-
-  John Doe is a software engineer and data scientist. He is currently pursuing a Master's degree in Computer Science at the University of Toronto. His research interests include deep learning, computer vision, and natural language processing.
+  Lisara Gajaweera is a final year undergraduate student reading Artificial Intelligence and Data Science. Her research interests include deep learning, computer vision, and natural language processing.
 author_pic: https://brennanbrown.ca/img/avatar.png
 paginate: 4
 paginate_path: "/:num/"
